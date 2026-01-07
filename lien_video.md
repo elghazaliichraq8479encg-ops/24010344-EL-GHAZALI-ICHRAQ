@@ -1,3 +1,6 @@
+Afin de faciliter la compréhension du travail réalisé, vous trouverez ci-dessous un lien vers une courte vidéo explicative.
+Cette vidéo présente la démarche suivie, les principales étapes du code ainsi que l'interprétation des résultats obtenus.
+
 
 
 
